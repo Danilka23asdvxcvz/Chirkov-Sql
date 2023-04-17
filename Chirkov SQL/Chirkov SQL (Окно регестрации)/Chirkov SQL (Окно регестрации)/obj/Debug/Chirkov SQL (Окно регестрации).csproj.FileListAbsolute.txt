@@ -1,0 +1,25 @@
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).csproj.AssemblyReference.cache
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).csproj.SuggestedBindingRedirects.cache
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov_SQL__Окно_регестрации_.LoginForm.resources
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov_SQL__Окно_регестрации_.Properties.Resources.resources
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).csproj.GenerateResource.cache
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).csproj.CoreCompileInputs.cache
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\Chirkov SQL (Окно регестрации).exe.config
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\Chirkov SQL (Окно регестрации).exe
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\Chirkov SQL (Окно регестрации).pdb
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).exe
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).pdb
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).exe.config
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\MySql.Data.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\Google.Protobuf.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\ZstdNet.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\BouncyCastle.Crypto.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\System.Memory.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\System.Buffers.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\K4os.Compression.LZ4.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\K4os.Hash.xxHash.dll
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\bin\Debug\MySql.Data.xml
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov SQL (Окно регестрации).csproj.CopyComplete
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov_SQL__Окно_регестрации_.RegisterForm.resources
+C:\My projeckt\Chirkov SQL (Окно регестрации)\Chirkov SQL (Окно регестрации)\obj\Debug\Chirkov_SQL__Окно_регестрации_.MainForm.resources
